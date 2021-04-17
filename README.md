@@ -1,12 +1,12 @@
 first Commit
 
 -production (real production workload)
-    -hotfixes (branches that are quick fixes on production)
+-hotfixes (branches that are quick fixes on production)
 
 -staging (blue / green - duplicate of the our production enviroment and if it all passes tests we'll swap out it will production )
 
 -main (main branch where we are going to merge all our features)
-    -feature
+-feature
 
 -qa (perform tests before merging into staging)
 
@@ -16,4 +16,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Horoscope
 
-Juggling work and home may seem difficult today, Pisces. Work responsibilities may weigh on your mind to the point where they interfere with the harmony of your home life. This can cause some inner conflict. It might be wise to prioritize work tasks on paper and schedule duties and deadlines. Then you can spend time with your family without worrying that work will be forgotten.
+Money matters are highlighted today, Pisces. You can expect to spend a lot of time with the calculator as you balance your checkbook or begin to work on your budget. Even if you don't consider yourself particularly good with numbers, you will do a great job. You're conscientious. Success in all endeavors is indicated today.
